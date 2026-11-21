@@ -1,6 +1,7 @@
 # Questions for the professor (week 1, S1-11)
 
-Answers are recorded in the [decisions log](decisions-log.md#answers-from-the-professor).
+Status: **answered on 2026-11-21**. Answers and their impact are recorded in the
+[decisions log](decisions-log.md#answers-from-the-professor).
 
 1. **Repositories.** We use one repository per deployable (horizon-backend, horizon-web) plus
    horizon-infrastructure and horizon-documentation. Does this match "1 repo per service"?
