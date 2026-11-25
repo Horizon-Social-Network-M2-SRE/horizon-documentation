@@ -46,7 +46,11 @@ Enforced locally by a pre-commit hook (backend) or Husky and commitlint (web), a
 - Under about 300 changed lines. Split larger work.
 - Use the pull request template: linked issue (`Closes #12`), what changed, how it was tested,
   AI note.
-- At least one approval from a CODEOWNER, and green CI.
+- At least one approval from a CODEOWNER, and green CI: the required checks where the repository
+  has them (backend today: `test` and `container`; web and infrastructure once the reusable
+  workflows of S1-02 land).
+- The ruleset enforces the code-owner approval. The cross-layer review (a reviewer from another
+  layer, see the Definition of Done) is a team rule, checked in the weekly contributor report.
 - Merge method: **rebase and merge** (the only one enabled). Squash would hide the commit
   frequency that is graded.
 
