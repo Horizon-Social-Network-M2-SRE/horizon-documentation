@@ -34,5 +34,5 @@ A story is done when:
 | S1 | Docker Compose (local stack from horizon-infrastructure) |
 | S2 | Docker Compose with local Prometheus |
 | S3 | Docker Compose with worker and WebSocket |
-| S4 | kind in CI, then the demo cluster (minikube) |
+| S4 | kind in CI, then the demo cluster (Floci EKS, [ADR 0001](../adr/0001-demo-cluster-floci-eks.md); minikube as fallback) |
 | S5 | Demo cluster with SLOs, alerts and dashboards |
