@@ -38,6 +38,7 @@ Web App · Observability · SRE
 | Sprints | Table | Group by Sprint |
 | Per person | Table | Group by Assignees |
 | Needs review | Table | Filter `status:"In review"`, sort by updated |
+| My items | Table | Filter `assignee:@me -status:Done` |
 
 ## Workflows (built-in automations)
 
