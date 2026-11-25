@@ -20,7 +20,7 @@ outside their own layer, and ships tests and metrics with each backend feature.
 | Nessrine | @NesrineBousrih | Web app lead | horizon-web | horizon-backend, horizon-infrastructure |
 
 GitHub teams: `backend` (Firas, Bougui), `web` (Nessrine, Kais), `platform` (Bouchiba, Kais).
-Organisation owners: Kais and Bouchiba.
+Organisation owners: Kais, Bouchiba and Firas.
 
 ### Scrum master duties
 
