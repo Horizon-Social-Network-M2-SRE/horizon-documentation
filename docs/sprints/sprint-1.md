@@ -36,7 +36,7 @@ Board: [GitHub Project](https://github.com/orgs/Horizon-Social-Network-M2-SRE/pr
 | S1-06 | Generated typed client | horizon-web | Kais, Nesrine | [web#2](https://github.com/Horizon-Social-Network-M2-SRE/horizon-web/issues/2) |
 | S1-07 | auth: register with password hashing and validation | horizon-backend | Firas, Bougui | [backend#4](https://github.com/Horizon-Social-Network-M2-SRE/horizon-backend/issues/4) |
 | S1-08 | auth: login, refresh, logout (JWT, Redis deny list) | horizon-backend | Bougui | [backend#5](https://github.com/Horizon-Social-Network-M2-SRE/horizon-backend/issues/5) |
-| S1-09 | Docker Compose local stack, make up, make test | horizon-infrastructure | Bouchiba | [infra#2](https://github.com/Horizon-Social-Network-M2-SRE/horizon-infrastructure/issues/2) |
+| S1-09 | Docker Compose local stack, make up, make test | horizon-infrastructure | Kais (Bouchiba reviews; reassigned 2026-11-23) | [infra#2](https://github.com/Horizon-Social-Network-M2-SRE/horizon-infrastructure/issues/2) |
 | S1-10 | Web shell: Next.js, sign-in and register pages, authenticated layout | horizon-web | Nesrine | [web#3](https://github.com/Horizon-Social-Network-M2-SRE/horizon-web/issues/3) |
 | S1-11 | Demo cluster and questions to the professor | horizon-documentation | Kais, Bouchiba | [doc#3](https://github.com/Horizon-Social-Network-M2-SRE/horizon-documentation/issues/3) |
 
