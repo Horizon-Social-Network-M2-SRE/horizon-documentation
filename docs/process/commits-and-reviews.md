@@ -10,6 +10,9 @@ ruleset, the shared workflows and the templates inherited from the `.github` rep
 - One issue per branch, named `<type>/<issue>-<short-name>`, for example
   `feature/12-logout-endpoint` or `fix/31-refresh-expiry`.
 - Branches are short-lived: merged within about two days, deleted automatically after merge.
+- When `main` moves and the branch conflicts, rebase onto `main` and push with
+  `git push --force-with-lease` (never a plain `--force`). If someone else also committed on the
+  branch, say so in the pull request so they reset their local copy.
 
 ## Commits
 
