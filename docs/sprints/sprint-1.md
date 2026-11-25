@@ -8,7 +8,8 @@ repository.
 ## Exit gate
 
 - [ ] Sign-in works from the browser against the backend running in Docker Compose
-- [ ] Every repository has a green pipeline and a visible history of small commits by its owners
+- [ ] Every code repository (backend, web, infrastructure) has a green pipeline, and every repository
+      shows a visible history of small commits by its owners
 - [ ] Every member has commits in at least two repositories
 - [ ] Demo cluster decided (Floci EKS, [ADR 0001](../adr/0001-demo-cluster-floci-eks.md));
       making it reachable by the team is moved to a later sprint
