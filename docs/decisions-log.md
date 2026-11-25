@@ -22,7 +22,7 @@ Source: plan v6, section 3 (updated 18 Nov 2026), plus later changes marked with
 | 13 | Merge method: rebase and merge | — |
 | 14 | Demo cluster: **Floci EKS on a team laptop with rootful Docker** *(changed 2026-11-21, ADR 0001)* | minikube; recorded run if no machine is available |
 | 15 | Planning tool: one organisation-level GitHub Project spanning all repositories (Trello mirrors it in S1) | — |
-| 16 | Organisation: Horizon-Social-Network-M2-SRE, two owners, teams backend/web/platform, `protect-main` ruleset per repository, public repositories *(updated 2026-11-21: per-repository ruleset, repositories made public for the Free plan)* | Private repositories with GitHub Education benefits |
+| 16 | Organisation: Horizon-Social-Network-M2-SRE, three owners (Kais, Bouchiba, Firas), teams backend/web/platform, `protect-main` ruleset per repository, public repositories *(updated 2026-11-21: per-repository ruleset, repositories made public for the Free plan)* | Private repositories with GitHub Education benefits |
 
 ## Answers from the professor
 
