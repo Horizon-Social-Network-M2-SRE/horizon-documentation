@@ -20,11 +20,13 @@ repositories, shared CI and Docker Compose; web shell.
 
 ## Backlog (ordered)
 
+Snapshot from sprint planning (2026-11-21). Live status is on the GitHub Project.
+
 Board: [GitHub Project](https://github.com/orgs/Horizon-Social-Network-M2-SRE/projects/1), Sprint = S1.
 
 | # | Story | Repository | Owner(s) | Issue |
 | --- | --- | --- | --- | --- |
-| S1-03 | GitHub organisation, teams, repositories and rulesets | all | Kais | done (no issue) |
+| S1-03 | GitHub organisation, teams, repositories and rulesets | all | Kais | [.github#2](https://github.com/Horizon-Social-Network-M2-SRE/.github/issues/2) |
 | S1-02 | Reusable CI workflows (Python and Node) — **day 1** | horizon-infrastructure | Bouchiba | [infra#1](https://github.com/Horizon-Social-Network-M2-SRE/horizon-infrastructure/issues/1) |
 | S1-04 | Backend skeleton: modules, health, /metrics, Dockerfile, pytest, Mongo, Redis — **day 1** | horizon-backend | Firas, Bougui | [backend#1](https://github.com/Horizon-Social-Network-M2-SRE/horizon-backend/issues/1) |
 | S1-01 | Team charter, roles, GitHub Project, Definition of Done | horizon-documentation | Kais, Firas | [doc#1](https://github.com/Horizon-Social-Network-M2-SRE/horizon-documentation/issues/1) |
