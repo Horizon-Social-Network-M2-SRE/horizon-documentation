@@ -25,6 +25,9 @@ shares and comments.
 | [docs/process/definition-of-ready-and-done.md](docs/process/definition-of-ready-and-done.md) | Definition of Ready and Definition of Done |
 | [docs/process/commits-and-reviews.md](docs/process/commits-and-reviews.md) | Branches, Conventional Commits, pull requests, reviews |
 | [docs/process/github-project.md](docs/process/github-project.md) | Organisation-level GitHub Project: fields, views, issue hierarchy |
+| [docs/decisions-log.md](docs/decisions-log.md) | Closed decisions with fallbacks, answers from the professor |
+| [docs/adr/](docs/adr/) | Architecture decision records (Floci EKS demo cluster, Istio) |
+| [docs/questions-for-the-professor.md](docs/questions-for-the-professor.md) | Week 1 questions to the professor |
 
 The full project plan lives in the shared Google Doc *Horizon Social Network — Project Planning
 Document*. This repository holds the parts that change with the code and must stay versioned.
