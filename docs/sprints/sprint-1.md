@@ -46,10 +46,11 @@ Unfinished stories carry over first in S2.
 ## Dependencies
 
 ```text
-S1-02 CI ─────────┬──> green pipelines everywhere
-S1-04 skeleton ───┼──> S1-07 register ──> S1-08 login/logout ──┐
-S1-06 OpenAPI v0 ─┴──> S1-06 typed client ──> S1-10 web shell ─┴──> sign-in demo
-S1-09 Compose (api + web + MongoDB + Redis) ─────────────────────────┘
+S1-02 reusable CI ──────> green pipelines in the code repositories
+S1-04 skeleton ──┬──> S1-08 login/logout ───────────────────────────────┐
+                 ├──> S1-06 OpenAPI v0 ──> S1-07 register ───────────────┤
+                 │                    └──> S1-06 typed client ──> S1-10 ┴──> sign-in demo
+S1-09 Compose (api + web + MongoDB + Redis) ──────────────────────────────┘
 ```
 
 ## Main risk
